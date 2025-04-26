@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Koda1ner's Daily Journal Blog
 ---
 
